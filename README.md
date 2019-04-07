@@ -46,4 +46,5 @@ Installation guide:<br/>
     ```
     Pickle-Features -FeatureDirectory .\SeleniumSpecflow.Automation\Features -OutputDirectory .\SeleniumSpecflow.Automation\Documentation -DocumentationFormat dhtml
     ```
-alternative to Pickles, if you have your project hosted in any Git repository like GitLab, GitHub or GitBucket you can create a living documentation using [HipTest](https://hiptest.com/living-documentation/).
+    It can be documented in HTML/DHTML, Json, Word or Excel.<br/><br/>
+Alternative to Pickles, if you have your project hosted in any Git repository like GitLab, GitHub or GitBucket you can create a living documentation using [HipTest](https://hiptest.com/living-documentation/).
